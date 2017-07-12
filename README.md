@@ -1,6 +1,7 @@
 # some_ros_order
-help to remember some ros order
-
+## Introduction
+* help to remember some ros order 
+* before using ros, it is highly recommended to follow [tutorial](http://wiki.ros.org/cn/ROS/Tutorials)
 0. source .../setup.bash 
    echo $ROS_PACKAGE_PATH #若想用roscd等命令先source
    ros... -h #显示帮助
